@@ -1,2 +1,2 @@
 # directory
-some implementations
+some C implementations
